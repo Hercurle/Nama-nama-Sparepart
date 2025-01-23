@@ -1,0 +1,43 @@
+body{
+    background: black;
+    
+}
+
+.kotak{
+    background-color: red;
+    margin: auto;
+    width: 80%;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+a{
+    color: red;
+}
+
+strong{
+    color: white;
+}
+
+.a{
+    width: 10%;
+    font-size: 20px;
+    text-align: center;
+    background-color: red;
+    border-radius: 10px solid;
+
+}
+
+.abjad{
+   width: 3%;
+   height: 80%;
+   background-color: red;
+   text-align: center;
+   position:fixed ;
+   right: 0px;
+}
+
+.lompat{
+    color: white;
+}
